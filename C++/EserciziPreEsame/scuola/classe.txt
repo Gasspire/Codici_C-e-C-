@@ -1,0 +1,10 @@
+Marco;5A;8.2;1
+Laura;9B;9.5;1
+Giovanni;7C;7.8;0
+Sofia;6A;8.9;1
+Alessia;8B;7.2;0
+Luca;9A;9.1;1
+Martina;6C;6.5;0
+Francesco;7B;8.7;1
+Chiara;5B;7.4;1
+Matteo;8C;6.9;0

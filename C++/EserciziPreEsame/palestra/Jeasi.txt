@@ -1,0 +1,3 @@
+#A;SediaPerDisabili;Handicap104;2104
+#AC;TapisRoulant;Femmineschiave;2014;20;false
+#AP;VAIUOMO;GYMBRO;2023;200;true

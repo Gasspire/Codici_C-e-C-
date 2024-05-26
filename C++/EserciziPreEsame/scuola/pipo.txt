@@ -1,0 +1,10 @@
+Giulia;9A;8.6;1
+Leonardo;6B;7.9;0
+Sara;7A;9.3;1
+Andrea;8B;8.1;1
+Chiara;5C;6.8;0
+Lorenzo;6A;7.2;1
+Alice;8C;9.0;1
+Mattia;7B;7.5;0
+Martina;5A;8.9;1
+Alessandro;9B;6.7;0

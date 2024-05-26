@@ -1,0 +1,5 @@
+P;bacchette;2.99
+P;bowl;5.99
+PA;riso;2.55;20250920
+PA;curry;5.59;20220312
+PA;lime;0.99;20230520
